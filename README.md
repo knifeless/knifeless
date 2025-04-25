@@ -1,1 +1,1 @@
-<p align="center"><![shotgun willy](https://github.com/user-attachments/assets/b354a2e4-1d89-43bb-9b59-0d1f25425c4c)>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB6azd0NnhnMXB0MGd2d2l0d3JtNzB3ZXJ0ZHB4cXVmcWt0NXBpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6PJY8yXmsa2RavKYQZ/giphy.gif"
