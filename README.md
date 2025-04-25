@@ -1,1 +1,2 @@
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB6azd0NnhnMXB0MGd2d2l0d3JtNzB3ZXJ0ZHB4cXVmcWt0NXBpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6PJY8yXmsa2RavKYQZ/giphy.gif"
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=knifeless&label=money_bags&color=aabf91&style=plastic" width="75">
