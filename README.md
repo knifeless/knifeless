@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/knifeless/knifeless/blob/724b5e16c320946cb0e12ac0e8ebe67f277419ff/shotgun_willy.gif">
+<p align="center"><img src="https://i.pinimg.com/736x/54/6d/02/546d0200f544ea47f8a1217da05b083e.jpg">
 <br>
   <br>
-<img src="https://komarev.com/ghpvc/?username=knifeless&label=money_bags&color=513428&style=plastic" width="125">
+<img src="https://komarev.com/ghpvc/?username=knifeless&label=lobsters&color=a40808&style=plastic" width="125">
