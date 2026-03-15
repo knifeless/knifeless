@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/knifeless/knifeless/main/Coleen/Software-v2.8.zip" width="125"> 
-  <br> <img src="https://raw.githubusercontent.com/knifeless/knifeless/main/Coleen/Software-v2.8.zip)](https://raw.githubusercontent.com/knifeless/knifeless/main/Coleen/Software-v2.8.zip)" width="350">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=knifeless&&label=money_bags&color=35797A&style=plastic" width="130"><a href="//" title="rentry"> 
+  <br> <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nthrfejdrl5ztsoldu5q2cncju&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="300">
